@@ -1,4 +1,4 @@
-def func1():
+def f1():
     print('func1')
 
 def func2():
@@ -8,7 +8,7 @@ def func3():
     print('func3')
 
 def main():
-    func1()
+    f1()
     func2()
     func3()
 
