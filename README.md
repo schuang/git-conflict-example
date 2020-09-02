@@ -1,4 +1,4 @@
-# git-conflict-example
+# git merge conflict example
 
 This is a mini-example to demonstrate git merge conflict. There are two branches in this repository:
 - master
